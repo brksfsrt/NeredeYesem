@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nerede Yesem</string>
+    <string name= "enter_radius">Yaricapi girin</string>
+    <string name= "Ara_button">Ara</string>
+</resources>
